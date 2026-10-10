@@ -1,0 +1,6 @@
+{
+  "name": "H.M College of Science and Technology, Manjeri",
+  "description": "Official portal for H.M College of Science and Technology, Manjeri (affiliated to the University of Calicut). Featuring CUFYUGP 2024 Four Year Honours in B.Sc Artificial Intelligence, IT, Psychology, Sciences, B.Com, and PG Master's programmes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
